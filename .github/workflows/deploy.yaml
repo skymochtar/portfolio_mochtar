@@ -24,20 +24,14 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
 
-      # Langkah 1: Generate Keys (PENTING: Ini yang bikin error kemarin karena kurang)
-      - name: Generate Locale Keys
-        run: dart run easy_localization:generate -S assets/translations -f keys -O lib/src/localization/generated -o locale_keys.g.dart
+      # HAPUS GENERATE LOCALE (KARENA SUDAH KITA UPLOAD MANUAL)
 
-      # Langkah 2: Generate JSON
-      - name: Generate Locale JSON
-        run: dart run easy_localization:generate -S assets/translations -f json -O lib/src/localization/generated -o locale_json.g.dart
-
-      # Langkah 3: Build Runner (Riverpod & Freezed)
+      # Tetap jalankan Build Runner untuk Riverpod (Wajib)
       - name: Run Build Runner
         run: dart run build_runner build --delete-conflicting-outputs
 
-      # Langkah 4: Build Website (HTML Renderer agar aman)
       - name: Build Web
+        # Pastikan nama repo benar: /portfolio_mochtar/
         run: flutter build web --release --web-renderer html --base-href "/portfolio_mochtar/"
 
       - name: Deploy to gh-pages
