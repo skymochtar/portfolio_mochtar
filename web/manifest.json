@@ -1,6 +1,6 @@
 {
-    "name": "portfolio_mochtar",
-    "short_name": "portfolio_mochtar",
+    "name": "portfolio",
+    "short_name": "portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
