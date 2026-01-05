@@ -53,7 +53,6 @@ flutter:
     - assets/icons/software-development/
     - assets/images/
     - assets/translations/
-    - assets/icons/
 
   fonts:
     - family: BoxIcons
