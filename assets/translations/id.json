@@ -12,14 +12,6 @@
             }
         },
         {
-            "tooltip": "Instagram",
-            "url": "https://instagram.com/SkyMochtar8",
-            "icon": {
-                "assetName": "assets/icons/software-development/instagram.svg",
-                "color": "0xffffffff"
-            }
-        },
-        {
             "tooltip": "Twitter",
             "url": "https://twitter.com/",
             "icon": {
@@ -193,7 +185,7 @@
         },
         {
             "name": "Koleksi Sertifikasi Kompetensi",
-            "description": "Dokumentasi sertifikat keahlian profesional saya. Termasuk sertifikasi kompetensi dari Dicoding Indonesia, Codepolitan, BNSP, Cisco, Alibaba, Coursera, dan Google Career Certificates.",
+            "description": "Dokumentasi sertifikat keahlian profesional saya. Termasuk sertifikasi kompetensi dari Dicoding Indonesia, Codepolitan, BNSP, Cisco, Alibaba, Coursera, Microsoft, dan Google Career Certificates.",
             "url": "https://drive.google.com/file/d/1tG3AxYjrUDmDryMOORmL0pwxzrF9442i/view?usp=sharing/",
             "icon": {
                 "codePoint": "0xf0a3",

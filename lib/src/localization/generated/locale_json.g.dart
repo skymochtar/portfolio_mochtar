@@ -28,14 +28,6 @@ class CodegenLoader extends AssetLoader{
       }
     },
     {
-      "tooltip": "Instagram",
-      "url": "https://instagram.com/SkyMochtar8",
-      "icon": {
-        "assetName": "assets/icons/software-development/instagram.svg",
-        "color": "0xffffffff"
-      }
-    },
-    {
       "tooltip": "Twitter",
       "url": "https://twitter.com/",
       "icon": {
@@ -75,7 +67,7 @@ class CodegenLoader extends AssetLoader{
     },
     {
       "languageCode": "id",
-      "url": "https://drive.google.com/file/d/1SEDu-wdXXsYXX48Ee3EKLg7YhdKyt72U/view?usp=sharing"
+      "url": ""
     }
   ],
   "aboutDescription": "I'm a mobile app developer passionate about turning ideas into user-centric applications.\n\nWith experience in Flutter and Web Development, I enjoy solving complex problems and building meaningful digital products. I am constantly learning new technologies to improve my skills and deliver high-quality code.",
@@ -209,7 +201,7 @@ class CodegenLoader extends AssetLoader{
     },
     {
       "name": "Professional Certifications",
-      "description": "Documentation of my professional expertise certificates. Includes competency certifications from Dicoding Indonesia, Codepolitan, BNSP, Cisco, Alibaba, Coursera, and Google Career Certificates.",
+      "description": "Documentation of my professional expertise certificates. Includes competency certifications from Dicoding Indonesia, Codepolitan, BNSP, Cisco, Alibaba, Coursera, Microsoft, and Google Career Certificates.",
       "url": "https://drive.google.com/file/d/1tG3AxYjrUDmDryMOORmL0pwxzrF9442i/view?usp=sharing/",
       "icon": {
         "codePoint": "0xf0a3",
@@ -273,14 +265,6 @@ static const Map<String,dynamic> _id = {
       }
     },
     {
-      "tooltip": "Instagram",
-      "url": "https://instagram.com/SkyMochtar8",
-      "icon": {
-        "assetName": "assets/icons/software-development/instagram.svg",
-        "color": "0xffffffff"
-      }
-    },
-    {
       "tooltip": "Twitter",
       "url": "https://twitter.com/",
       "icon": {
@@ -320,7 +304,7 @@ static const Map<String,dynamic> _id = {
     },
     {
       "languageCode": "id",
-      "url": "https://drive.google.com/file/d/1SEDu-wdXXsYXX48Ee3EKLg7YhdKyt72U/view?usp=sharing"
+      "url": ""
     }
   ],
   "aboutDescription": "Saya adalah pengembang aplikasi mobile yang bersemangat mengubah ide menjadi aplikasi yang berpusat pada pengguna.\n\nDengan pengalaman di Flutter dan Pengembangan Web, saya menikmati memecahkan masalah kompleks dan membangun produk digital yang bermanfaat. Saya terus mempelajari teknologi baru untuk meningkatkan keterampilan dan menghasilkan kode yang berkualitas tinggi.",
@@ -454,7 +438,7 @@ static const Map<String,dynamic> _id = {
     },
     {
       "name": "Koleksi Sertifikasi Kompetensi",
-      "description": "Dokumentasi sertifikat keahlian profesional saya. Termasuk sertifikasi kompetensi dari Dicoding Indonesia, Codepolitan, BNSP, Cisco, Alibaba, Coursera, dan Google Career Certificates.",
+      "description": "Dokumentasi sertifikat keahlian profesional saya. Termasuk sertifikasi kompetensi dari Dicoding Indonesia, Codepolitan, BNSP, Cisco, Alibaba, Coursera, Microsoft, dan Google Career Certificates.",
       "url": "https://drive.google.com/file/d/1tG3AxYjrUDmDryMOORmL0pwxzrF9442i/view?usp=sharing/",
       "icon": {
         "codePoint": "0xf0a3",
